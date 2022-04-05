@@ -9,10 +9,10 @@ int main()
   printf(" to misinterprete\n");
   printf("\'complexity\' as \"");
   printf("sophistication\", which is ");
-  printf("100% baffling\n");
+  printf("100%% baffling\n");
   printf("\tThe incomprehensible");
   printf(" should cause\n");
-  printf("\'suspicion\' ratherthan ");
+  printf("\t\'suspicion\' ratherthan ");
   printf("\"admiration\".\n");
   printf("Possibly this trend results from a mistaken belief that\n");
   printf("using a somewhat mysterious device confers\n");
